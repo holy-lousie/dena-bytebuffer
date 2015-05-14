@@ -1,0 +1,10 @@
+{
+  "name": "dena-bytebuffer",
+  "version": "0.1.0",
+  "description": "pack or unpack a byte array",
+  "author": "<yong.liu@dena.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holylousie/dena-bytebuffer"
+  }
+}
